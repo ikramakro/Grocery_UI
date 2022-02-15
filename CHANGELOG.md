@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2022-02-15: refactor(core): fix pagination offset
 - 2021-10-01: Adjust API response format
 - 2021-01-01: chore: initial project setup
 - 2025-04-21: style(routes): remove dead code
