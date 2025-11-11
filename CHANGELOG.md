@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-11-11: Add input sanitization
 - 2022-02-15: refactor(core): fix pagination offset
 - 2021-10-01: Adjust API response format
 - 2021-01-01: chore: initial project setup
